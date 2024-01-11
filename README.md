@@ -1,1 +1,1 @@
-# Amizponk-Backend-Java
+# Amizponk-Backend
